@@ -1,0 +1,11 @@
+.display {
+  margin: 10px 7px;
+  width: 180px;
+  font-size: 20px;
+  padding: 2px 2px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(43, 145, 46, 0.1);
+  border: 1px solid #ccc;
+}
